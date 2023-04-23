@@ -1,0 +1,13 @@
+{
+    "id": 30,
+    "username": "usertest",
+    "first_name": "test",
+    "last_name": "user",
+    "email": "test-user@gmail.fr",
+    "is_admin": false,
+    "street": "test street",
+    "zipcode": "test zipcode",
+    "city": "test city",
+    "phone_number": "123456789",
+    "contract_number": 789456
+}
